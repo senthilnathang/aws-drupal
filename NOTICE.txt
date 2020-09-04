@@ -1,0 +1,19 @@
+Copyright 2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+SPDX-License-Identifier: MIT-0
+
+Note: Other license terms may apply to certain, identified software files contained within or distributed with the accompanying software if such terms are included in the directory containing the accompanying software. Such other license terms will then apply in lieu of the terms of the software license above.
+
+aws-refarch-wordpress
+Copyright 2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+
+**********************
+THIRD PARTY COMPONENTS
+*********************
+This software includes third party software subject to the following copyrights:
+
+    Drupal is licensed under the GNU General Public License (GPLv2 or later).
+
+    OpCache is licensed under PHP License, version 3.01.
+
+The licenses for these third party components are included in LICENSE.txt 
